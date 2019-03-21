@@ -1,4 +1,4 @@
-# CSS 584a – Assignment2 Report
+# Content-Based Image Retreval System with Relevance Feedback
 
 ### Yunbo Chen
 
